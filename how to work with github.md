@@ -1,3 +1,6 @@
+---
+---
+
 How to start your adventure with git & GitHub
 ======
 # The beginning

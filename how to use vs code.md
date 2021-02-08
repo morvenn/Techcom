@@ -1,3 +1,6 @@
+---
+---
+
 How to use Visual Studio Code
 ========================
 From this document you will learn how to install VS Code, how to work in it and what are the useful keyboard shortcuts. You will also learn how to install additional extensions. 

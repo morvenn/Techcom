@@ -7,11 +7,11 @@ color_scheme: dark
 
 # logo: "/assets/images/Morris_badge.png"
 
-# aux_links:
-#   "Source repository on GitHub":
-#     - "//github.com/morvenn/morvenn.github.io"
+aux_links:
+  "Source repository on GitHub":
+    - "//github.com/morvenn/Techcom"
 
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content is based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>"
+footer_content: "&copy; 2021 Magda Niedźwiecka"
