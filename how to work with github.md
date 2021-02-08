@@ -1,4 +1,6 @@
 ---
+title: How to work with GitHub
+nav_order: 3
 ---
 
 How to start your adventure with git & GitHub

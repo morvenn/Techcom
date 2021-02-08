@@ -1,7 +1,9 @@
 ---
+title: How to use markdown syntax
+nav_order: 1
 ---
 
-This is how you create a title in markdown.
+This is how you create a title in markdown
 ========================
 Here the note about markdown starts. As you can see, using markdown is really easy!
 
@@ -42,7 +44,7 @@ A table - see how to do it!
 \
 Table of contents
 
-- [This is how you create a title in markdown.](#this-is-how-you-create-a-title-in-markdown)
+- [This is how you create a title in markdown](#this-is-how-you-create-a-title-in-markdown)
 - [And this is chapter 1](#and-this-is-chapter-1)
   - [1.1. Let's start the note](#11-lets-start-the-note)
 

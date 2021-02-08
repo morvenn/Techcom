@@ -1,4 +1,6 @@
 ---
+title: How to use VS Code
+nav_order: 2
 ---
 
 How to use Visual Studio Code
