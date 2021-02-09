@@ -60,4 +60,17 @@ You are now on the "Let's get started" screen. At this point you can already sta
     send it using GitHub Desktop
           OR
     send it using VS Code		
-  
+
+# Create your own repo
+
+There are two ways to do it:
+
+1. Use GitHub Desktop: in the top menu click "file" and then "new repository".
+2. Use GitHub directly: log in to your account, then click the green button "New" on the left side of the screen.
+
+Great! Now you're ready to work with your brand new repository. Try to add some files there. 
+
+
+
+
+
