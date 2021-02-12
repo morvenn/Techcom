@@ -83,11 +83,12 @@ And again: you can do it in at least two ways:
 # Commit and push
 
 It's time for the most glorious action.
-If your work within the file is done, you can publish it using GitHub Desktop. Publishing is the two-step process.
+If your work within the file is done, you can publish it using GitHub Desktop. Publishing is the three-step process.
 
-1. First you have to commit your changes in your local repository. You must fill in the commit title in GitHub Desktop (description is not obligatory). This is important - without filling in the title field, the file with the changes will not finally come to your remote repository. 
+1. First you have to commit your changes in your local repository. You must fill in the commit summary in GitHub Desktop (description is not obligatory). This is important - without filling in the title field, the file with the changes will not finally come to your remote repository. 
 
 2. Then you have to push the changes to the remote repository hosted on GitHub (or wherever you keep it). If you work on the file with someone else, click "fetch origin" before push.
 
+3. And the last step: after comitting click "push origin" button. 
 
 [^1]: There are more services like GitHub: you can use also BitBucket, GitLab etc.
