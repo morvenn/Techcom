@@ -91,4 +91,7 @@ If your work within the file is done, you can publish it using GitHub Desktop. P
 
 3. And the last step: after comitting click "push origin" button. 
 
+===========================================
+
+
 [^1]: There are more services like GitHub: you can use also BitBucket, GitLab etc.
