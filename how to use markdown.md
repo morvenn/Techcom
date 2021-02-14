@@ -2,10 +2,11 @@
 title: How to use markdown syntax
 nav_order: 1
 ---
+Using markdown is very easy. Let's start from the very beginning: a title of the document. Create it by inserting a few characters like this: =
 
-This is how you create a title in markdown
+This is title
 ========================
-Here the note about markdown starts. As you can see, using markdown is really easy!
+Here the note really starts. As you can see, using markdown is as simple as that. 
 
 Here we have an introduction. The introduction is short and not very sophisticated. And here's the way you create an *italics*.
 
@@ -44,7 +45,7 @@ A table - see how to do it!
 \
 Table of contents
 
-- [This is how you create a title in markdown](#this-is-how-you-create-a-title-in-markdown)
+- [This is title](#this-is-title)
 - [And this is chapter 1](#and-this-is-chapter-1)
   - [1.1. Let's start the note](#11-lets-start-the-note)
 

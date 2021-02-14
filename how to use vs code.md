@@ -13,7 +13,7 @@ You can find the installation file [here](https://code.visualstudio.com/). Downl
 
 # The beginning
 
-Ready? Now it's time to start coding! Create a file with any name, give it the extension .md, then click on the **ctrl+shift+P** key combination. Then select the Open Preview to the Side command. You get a preview of what you'll be writing.
+Ready? Now it's time to start another markdown magic. Create a file with any name and give it the extension .md, then click on the **ctrl+shift+P** key combination. Then select the Open Preview to the Side command and get a preview of what you'll be writing.
 
 # The story continues
 
