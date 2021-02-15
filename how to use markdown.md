@@ -59,7 +59,7 @@ Between such characters ` you can put all the formulas, equations, etc.
 
 To add a table into your document, use three or more hyphens: 
 ```
-(---) 
+--- 
 ```
 to create each column’s header, and use pipes (|) to separate each column. You can add pipes on either end of the table, but it's not obligatory. 
 
