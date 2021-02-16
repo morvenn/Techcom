@@ -25,7 +25,7 @@ Important: learn to distinguish between GitHub and git. Git is:
 * a way of working
 * a way of thinking/operating/whatever you called it
 
-...while GitHub is a place where you can upload and store the code using git commands. You can also use a dedicated program, for example GitHub Desktop.
+...while GitHub is one of the places where you can upload and store the code using git commands. You can also do it using a dedicated program, for example GitHub Desktop.
 
 # GitHub Desktop
 
@@ -38,6 +38,7 @@ After the first run you will see the screen with welcome information.
 Now you can create a GitHub account if you haven't already done so, but you can also sign in to your GitHub account if you already have one.
 
 When you click sign in, it launches a page in your default browser where you simply click the "Authorize desktop" button. This logs you into your GitHub account in the program. The program then asks you to set up a name and email for future code work. Click continue. You will be asked if you agree to periodically submitting usage stats for the program (which is optional). **Done!**
+
 You are now on the "Let's get started" screen. At this point you can already start working with git, ie:
 
 * create a tutorial repository
@@ -45,7 +46,9 @@ You are now on the "Let's get started" screen. At this point you can already sta
 * create a new repository on your hard drive
 * add an existing from your hard drive
 
-# But what is repository and how to work with it?
+# But... what exactly a repository is and how to work with it?
+
+Let me show you it to you as ASCII art:
 
 ```
      Repository:
@@ -90,6 +93,16 @@ If your work within the file is done, you can publish it using GitHub Desktop. P
 2. Then you have to push the changes to the remote repository hosted on GitHub (or wherever you keep it). If you work on the file with someone else, click "fetch origin" before push.
 
 3. And the last step: after comitting click "push origin" button. 
+
+# Cooperation with other GitHub users
+
+Do you want to boast about your work? Or maybe you want to invite other GitHub users to collaborate with you or observe your friends?
+
+1. Go to your repository on GitHub. In one of the top menus, you'll find the Settings button. Click on it. 
+2. Now in the options on the left, find "Manage access". Click again - but here's a surprise, GitHub will ask you to log in again. 
+3. After logging in, you will be taken to a page where you can see who already has access to your repository (if you have previously given such access to someone). **Note**: if your repository is private, you must first change it to public. If you want to add someone you want to collaborate with, click on "**Add a collaborator**". Of course, it is useful to know his/her GitHub username ;-)
+
+![See how it looks](screen.jpg)
 
 ------
 
