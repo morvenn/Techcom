@@ -104,6 +104,8 @@ Do you want to boast about your work? Or maybe you want to invite other GitHub u
 
 ![See how it looks](screen.jpg)
 
+*One more thing*. You may notice that on GitHub coworkers are referred to in two ways: collaborator or contributor. A collaborator is a regular contributor - someone you know and intentionally add to your list of close collaborators. A contributor, on the other hand, can be anyone who occasionally wants to improve your code. You don't have to permanently add this person to any list. 
+
 ------
 
 
