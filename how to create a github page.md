@@ -14,4 +14,6 @@ Here are the step by step instructions:
 
 ![example](repository_name.jpg)   
 
-
+3. You can click the "Add a README file" checkbox if you wish.
+4. Click on "Create repository" and add the index.html or index.md file to the repository
+5. And there you have it - it works! Admittedly, the page is empty for now, but we will deal with that in the next steps :-)
