@@ -74,7 +74,7 @@ to create each column’s header, and use pipes (|) to separate each column. You
 
 To successfully generate a table of contents, you must have the extension "Markdown All in One" installed.
 
-That's how it looks like:
+That's how it looks:
 
 - [This is title](#this-is-title)
 - [And this is chapter 1](#and-this-is-chapter-1)
