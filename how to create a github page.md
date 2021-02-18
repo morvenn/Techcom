@@ -36,13 +36,17 @@ To use Jekyll with just-the-docs theme, you should:
 ```
 remote_theme: pmarsceill/just-the-docs
 ```
+
 **Wait, what is _config.yml?**
 
 The `_config.yml` is the main configuration file for Jekyll in your repository. It typically contains only those configuration options which are rarely changed.
 
-The example of the yml file can be like this:
+The yml file can be something like this:
 
 ![another_example](config_description.jpg)
 
+**Is that all?**
+
+Basically yes, but of course it would be nice if the site had some content. So upload some .md documents to your repository, maybe some images. Upload everything to your GitHub using GitHub Desktop. 
 
 
