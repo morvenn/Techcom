@@ -32,7 +32,7 @@ It's one of the maaaany Jekyll themes available on GitHub. It's dedicated to cre
 
 To use Jekyll with just-the-docs theme, you should:
 * have index.md in the repository
-* have a _config.yml file in the repository that contains a line like this:
+* have a `_config.yml` file in the repository that contains a line like this:
 ```
 remote_theme: pmarsceill/just-the-docs
 ```
@@ -47,6 +47,6 @@ The yml file can be something like this:
 
 **Is that all?**
 
-Basically yes, but of course it would be nice if the site had some content. So upload some .md documents to your repository, maybe some images. Upload everything to your GitHub using GitHub Desktop. 
+Basically yes, but of course it would be nice if the site had some content. So upload some .md documents to your repository, maybe some images. Upload everything to your GitHub using GitHub Desktop. Just-the-docs the will automatically generate left navigation pannel and will enable the built-in search. If you want to customize it, please refer to the [documentation](https://pmarsceill.github.io/just-the-docs/).
 
 
