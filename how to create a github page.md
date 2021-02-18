@@ -15,5 +15,34 @@ Here are the step by step instructions:
    ![example](repository_name.jpg)   
 
 3. You can click the "Add a README file" checkbox if you wish.
-4. Click on "Create repository" and add the index.html or index.md file to the repository
+4. Click on "Create repository" and add the index.md file to the repository
 5. And there you have it - it works! Admittedly, the page is empty for now, but we will deal with that in the next steps :-)
+
+# Jekyll & just-the-docs 
+
+**What is Jekyll?**
+
+Jekyll is static page generator on GitHub. It's a part of the whole GitHub configuration. You only need to remember about Jekyll if you want to customize it.
+
+**What is just-the-docs?**
+
+It's one of the maaaany Jekyll themes available on GitHub. It's dedicated to create clear pages with documentation. You can find it [here](https://github.com/pmarsceill/just-the-docs).
+
+**How to use it?**
+
+To use Jekyll with just-the-docs theme, you should:
+* have index.md in the repository
+* have a _config.yml file in the repository that contains a line like this:
+```
+remote_theme: pmarsceill/just-the-docs
+```
+**Wait, what is _config.yml?**
+
+The `_config.yml` is the main configuration file for Jekyll in your repository. It typically contains only those configuration options which are rarely changed.
+
+The example of the yml file can be like this:
+
+![another_example](config_description.jpg)
+
+
+

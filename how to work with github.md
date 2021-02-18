@@ -48,7 +48,7 @@ You are now on the "Let's get started" screen. At this point you can already sta
 
 # But... what exactly a repository is and how to work with it?
 
-Let me show you it to you as ASCII art:
+Let me show it to you as ASCII art:
 
 ```
      Repository:
