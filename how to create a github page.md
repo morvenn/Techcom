@@ -47,6 +47,6 @@ The yml file can be something like this:
 
 **Is that all?**
 
-Basically yes, but of course it would be nice if the site had some content. So upload some .md documents to your repository, maybe some images. Upload everything to your GitHub using GitHub Desktop. Just-the-docs the will automatically generate left navigation pannel and will enable the built-in search. If you want to customize it, please refer to the [documentation](https://pmarsceill.github.io/just-the-docs/).
+Basically yes, but of course it would be nice if the site had some content. So upload some .md documents to your repository, maybe some images. Upload everything to your GitHub using GitHub Desktop. Just-the-docs will automatically generate left navigation pannel and will enable the built-in search. If you want to customize it, please refer to the [documentation](https://pmarsceill.github.io/just-the-docs/).
 
 
