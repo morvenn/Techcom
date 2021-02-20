@@ -7,7 +7,7 @@ How to start your adventure with git & GitHub
 ======
 # The beginning
 
-To start working with git, you first need to create an account on a service like GitHub[^1]. This is similar to setting up a profile in any social media channel. Just go to:
+To start working with git, first you need to create an account on a service like GitHub[^1]. This is similar to setting up a profile in any social media channel. Just go to:
 (https://github.com/)
 
 Then in the upper right corner click on Sign up. 
