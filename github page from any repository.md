@@ -16,7 +16,10 @@ I don't know why, but I didn't believe it. I patiently clicked and searched for 
 ```
 /
 ```
-For example https://username.github.io/yourrepository
+For example 
+```
+https://username.github.io/yourrepository
+```
 
 # Find out how to do it in a few simple steps ;-)
 
