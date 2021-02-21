@@ -34,3 +34,4 @@ https://username.github.io/yourrepository
 10. Click on view deployment
 11. You've done it!
 
+**Warning:** If you see 404 error, just add index.md to your repository. Should work! 

@@ -49,4 +49,15 @@ The yml file can be something like this:
 
 Basically yes, but of course it would be nice if the site had some content. So upload some .md documents to your repository, maybe some images. Upload everything to your GitHub using GitHub Desktop. Just-the-docs will automatically generate left navigation pannel and will enable the built-in search. If you want to customize it, please refer to the [documentation](https://pmarsceill.github.io/just-the-docs/).
 
+# Some tips
+
+* If your page has more than one subpage and you want to set them in some sort of order, type at the beginning of every .md document:
+```
+---
+nav_order: 1
+---
+```
+...or 2, 3, 4 etc.
+
+* If you have many illustrations on your pages, it would be good practice to organise them to avoid clutter. So create an assets/images directory in your repository and put the images there. Don't be like me ;-)
 
